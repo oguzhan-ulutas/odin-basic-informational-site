@@ -4,7 +4,7 @@ A basic info site for learning node.js.
 
 [The Odin Project exercise](https://www.theodinproject.com/lessons/nodejs-basic-informational-site) to learn Node.js.
 
-[Live Preview](https://oguzhan-shopping-app.netlify.app/)
+[Live Preview](https://replit.com/@picbidervis/odin-basic-informational-site)
 
 **What I learned with this project;**
 
